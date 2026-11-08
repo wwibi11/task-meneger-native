@@ -1,0 +1,40 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Editor / IDE =====
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===== Log & Cache =====
+*.log
+*.cache
+.phpunit.result.cache
+
+# ===== Environment / Secret =====
+.env
+.env.local
+.env.*.local
+
+# ===== Database lokal (jangan commit dump) =====
+*.sql
+!database.sql
+!schema.sql
+
+# ===== Dependency (kalau nanti pakai Composer) =====
+/vendor/
+composer.lock
+
+# ===== Node (kalau nanti pakai) =====
+node_modules/
+package-lock.json
+
+# ===== Upload (kalau nanti ada fitur upload) =====
+/uploads/*
+!/uploads/.gitkeep
+
+# ===== Screenshot (opsional: komentar kalau mau di-commit) =====
+# screenshots/

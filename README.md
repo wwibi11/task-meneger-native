@@ -8,7 +8,7 @@
 [![PDO](https://img.shields.io/badge/PDO-Prepared%20Statement-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
----
+
 
 ## Daftar Isi
 
@@ -22,18 +22,18 @@
 - [Roadmap](#️-roadmap)
 - [Lisensi](#-lisensi)
 
----
+
 
 ## Tentang Proyek
 
-**Task Manager** adalah aplikasi CRUD tugas yang sengaja dibuat "lebih dari sekadar CRUD dasar". Proyek ini menjadi jembatan antara belajar PHP Native dan Laravel, dengan menerapkan konsep-konsep yang nantinya akan otomatis ditangani oleh framework.
+Task Manager adalah aplikasi CRUD tugas yang sengaja dibuat "lebih dari sekadar CRUD dasar". Proyek ini menjadi jembatan antara belajar PHP Native dan Laravel, dengan menerapkan konsep-konsep yang nantinya akan otomatis ditangani oleh framework.
 
 Cocok untuk pemula yang ingin:
 - Memahami alur request → validasi → query → response tanpa "keajaiban" framework
 - Melatih penggunaan **PDO Prepared Statement** dengan benar
 - Mempersiapkan diri sebelum belajar **Laravel (Eloquent, Blade, Validation)**
 
----
+
 
 ## Fitur
 
@@ -49,8 +49,6 @@ Cocok untuk pemula yang ingin:
 | 🛡️ **Prepared Statement** | Aman dari SQL Injection |
 | 🔒 **Whitelist Sorting** | Kolom sorting divalidasi agar tidak bisa dieksploitasi |
 
----
-
 
 
 ## Teknologi
@@ -62,8 +60,10 @@ Cocok untuk pemula yang ingin:
 | **Driver** | PDO (Prepared Statement) |
 | **Frontend** | HTML + CSS murni (tanpa framework) |
 
----
 ```
+
+
+
 
 ## Struktur Folder
 

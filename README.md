@@ -66,7 +66,7 @@ Cocok untuk pemula yang ingin:
 
 
 ## Struktur Folder
-
+```markdown
 task-manager/
 ├── config/
 │   └── database.php        # Koneksi PDO
@@ -85,10 +85,8 @@ task-manager/
 └── README.md
 ```
 
----
 
 ## 🚀 Instalasi
-
 ### 1. Clone Repository
 
 ```bash
@@ -97,7 +95,6 @@ cd task-manager-php-native
 ```
 
 ### 2. Buat Database
-
 Jalankan SQL berikut di phpMyAdmin atau MySQL client:
 
 ```sql

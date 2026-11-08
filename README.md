@@ -22,14 +22,14 @@
 ```
 
 ## 🎯 Tentang Proyek
-
+```markdown
 Task Manager adalah aplikasi CRUD tugas yang sengaja dibuat "lebih dari sekadar CRUD dasar". Proyek ini menjadi jembatan antara belajar PHP Native dan Laravel, dengan menerapkan konsep-konsep yang nantinya akan otomatis ditangani oleh framework.
 
 Cocok untuk pemula yang ingin:
 - Memahami alur request → validasi → query → response tanpa "keajaiban" framework
 - Melatih penggunaan **PDO Prepared Statement** dengan benar
 - Mempersiapkan diri sebelum belajar **Laravel (Eloquent, Blade, Validation)**
-
+```
 
 ## ✨ Fitur
 ```
@@ -87,6 +87,8 @@ task-manager/
 
 ```bash
 git clone https://github.com/username/task-manager-php-native.git
+```
+```bash
 cd task-manager-php-native
 ```
 

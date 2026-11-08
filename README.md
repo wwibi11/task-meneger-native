@@ -182,38 +182,3 @@ Proyek ini dibuat "lebih dari CRUD dasar" agar menjadi bekal sebelum pindah ke L
 Didistribusikan di bawah **MIT License**. Bebas digunakan untuk belajar.
 
 Lihat [`LICENSE`](LICENSE) untuk detail.
-
----
-
----
-
-## 🏷️ Description Repo (kolom About)
-
-Isi kolom **Description** di halaman utama repo dengan versi singkat ini:
-
-```
-Task Manager PHP Native — CRUD tugas dengan prioritas, deadline, filter status, sorting dinamis, deteksi keterlambatan, dan statistik. Dibangun dengan PDO + MySQL sebagai latihan sebelum migrasi ke Laravel. 🚀
-```
-
----
-
-## 🔖 Topics yang Disarankan
-
-Tambahkan di bagian **Topics** repo:
-
-```
-php  php-native  mysql  pdo  crud  task-manager  todo-app  beginner-project  learning-php  laravel-prep
-```
-
----
-
-## 📌 Tips Tambahan Biar README Makin Rapi
-
-1. **Screenshot**: buat folder `screenshots/` di root, isi dengan `index.png` dan `create.png`. README di atas sudah mereferensikannya.
-2. **Ganti `username`** di bagian clone URL dengan username GitHub-mu.
-3. **Tambahkan file `LICENSE`** di root (MIT License) — cukup ambil template dari [choosealicense.com](https://choosealicense.com/licenses/mit/).
-4. **Pin repo** di profil GitHub-mu supaya tampil di halaman utama profil.
-
----
-
-Kalau mau, saya bisa lanjut bantu buatkan **file `LICENSE` (MIT)** dan **`.gitignore` khusus PHP** biar repo-nya lengkap dan langsung rapi dari commit pertama.

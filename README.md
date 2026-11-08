@@ -185,11 +185,6 @@ Lihat [`LICENSE`](LICENSE) untuk detail.
 
 ---
 
-<p align="center">
-  Dibuat dengan ❤️ sebagai latihan belajar PHP Native sebelum Laravel
-</p>
-```
-
 ---
 
 ## 🏷️ Description Repo (kolom About)

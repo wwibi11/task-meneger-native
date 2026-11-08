@@ -1,11 +1,5 @@
-# 📄 README.md Rapi untuk GitHub
-
-Ini versi final `README.md` yang sudah dirapikan — struktur jelas, ada badge, navigasi, dan siap copy-paste. Cukup ganti bagian `username` dengan username GitHub-mu.
-
----
-
 ```markdown
-# 📝 Task Manager — PHP Native
+# Task Manager — PHP Native
 
 > Aplikasi manajemen tugas sederhana dengan PHP Native (PDO) + MySQL, dibuat sebagai latihan sebelum migrasi ke Laravel.
 
@@ -16,7 +10,7 @@ Ini versi final `README.md` yang sudah dirapikan — struktur jelas, ada badge, 
 
 ---
 
-## 📋 Daftar Isi
+## Daftar Isi
 
 - [Tentang Proyek](#-tentang-proyek)
 - [Fitur](#-fitur)
@@ -30,7 +24,7 @@ Ini versi final `README.md` yang sudah dirapikan — struktur jelas, ada badge, 
 
 ---
 
-## 🎯 Tentang Proyek
+## Tentang Proyek
 
 **Task Manager** adalah aplikasi CRUD tugas yang sengaja dibuat "lebih dari sekadar CRUD dasar". Proyek ini menjadi jembatan antara belajar PHP Native dan Laravel, dengan menerapkan konsep-konsep yang nantinya akan otomatis ditangani oleh framework.
 
@@ -41,7 +35,7 @@ Cocok untuk pemula yang ingin:
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 | Fitur | Deskripsi |
 |-------|-----------|
@@ -57,7 +51,9 @@ Cocok untuk pemula yang ingin:
 
 ---
 
-## 🧰 Teknologi
+
+
+## Teknologi
 
 | Komponen | Keterangan |
 |----------|------------|
@@ -67,10 +63,10 @@ Cocok untuk pemula yang ingin:
 | **Frontend** | HTML + CSS murni (tanpa framework) |
 
 ---
-
-## 📁 Struktur Folder
-
 ```
+
+## Struktur Folder
+
 task-manager/
 ├── config/
 │   └── database.php        # Koneksi PDO

@@ -1,17 +1,15 @@
-```markdown
-# Task Manager — PHP Native
-
+# 📝 Task Manager — PHP Native
 > Aplikasi manajemen tugas sederhana dengan PHP Native (PDO) + MySQL, dibuat sebagai latihan sebelum migrasi ke Laravel.
 
+```markdown
 [![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PDO](https://img.shields.io/badge/PDO-Prepared%20Statement-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+```
 
-
-
-## Daftar Isi
-
+## 📋 Daftar Isi
+```
 - [Tentang Proyek](#-tentang-proyek)
 - [Fitur](#-fitur)
 - [Teknologi](#-teknologi)
@@ -21,22 +19,21 @@
 - [Tujuan Pembelajaran](#-tujuan-pembelajaran)
 - [Roadmap](#️-roadmap)
 - [Lisensi](#-lisensi)
+```
 
-
-
-## Tentang Proyek
-
+## 🎯 Tentang Proyek
+```
 Task Manager adalah aplikasi CRUD tugas yang sengaja dibuat "lebih dari sekadar CRUD dasar". Proyek ini menjadi jembatan antara belajar PHP Native dan Laravel, dengan menerapkan konsep-konsep yang nantinya akan otomatis ditangani oleh framework.
 
 Cocok untuk pemula yang ingin:
 - Memahami alur request → validasi → query → response tanpa "keajaiban" framework
 - Melatih penggunaan **PDO Prepared Statement** dengan benar
 - Mempersiapkan diri sebelum belajar **Laravel (Eloquent, Blade, Validation)**
+```
 
 
-
-## Fitur
-
+## ✨ Fitur
+```
 | Fitur | Deskripsi |
 |-------|-----------|
 | ✅ **CRUD Task** | Tambah, lihat, edit, dan hapus tugas |
@@ -48,11 +45,11 @@ Cocok untuk pemula yang ingin:
 | 📊 **Statistik Ringkas** | Total, selesai, belum, dan terlambat |
 | 🛡️ **Prepared Statement** | Aman dari SQL Injection |
 | 🔒 **Whitelist Sorting** | Kolom sorting divalidasi agar tidak bisa dieksploitasi |
+```
 
 
-
-## Teknologi
-
+## 🧰 Teknologi
+```
 | Komponen | Keterangan |
 |----------|------------|
 | **PHP** | 8.0+ (menggunakan `match` expression) |
@@ -65,7 +62,7 @@ Cocok untuk pemula yang ingin:
 
 
 
-## Struktur Folder
+## 📁 Struktur Folder
 ```markdown
 task-manager/
 ├── config/
